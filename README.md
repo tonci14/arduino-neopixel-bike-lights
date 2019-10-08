@@ -1,4 +1,4 @@
-# arduino-elm327-oled
+# arduino-neopixel-bike-lights
 Created by Tonci14
 Any modifications or redistributions allowed. Happy Coding ;-)
 
@@ -12,9 +12,9 @@ https://www.youtube.com/playlist?list=PLpFiBz06Um3DUyLKNLZelgP0mtJA5bFmr
 Hi! This is my first public code, so be nice to me.. :)
 
 ## What you need
-Arduion MEGA (PRO), Bluetooth HC-05, OLED SSD1306, ELM327 bluetooth adapter
+Arduion ANY, Neopixel Strip, some switch or buttons..
 
 ## Used Libraries
-MCP2515.h, OBD2.h, U8g2lib.h
+Adafruit_NeoPixel.h
 
 Happy coding... :)
